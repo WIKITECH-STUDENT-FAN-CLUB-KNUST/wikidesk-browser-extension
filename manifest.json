@@ -1,0 +1,17 @@
+{
+    "name": "wiki desk",
+    "description": "wiki desk — stay up to date | open knowledge",
+    "version": "1.0.0",
+    "manifest_version": 3,
+    "icons": {
+      "48": "assets/7.png",
+      "128": "assets/7.png"
+    },
+    "permissions": ["tabs"],
+    "background": {
+      "service_worker": "js/main.js"
+    },
+    "chrome_url_overrides": {
+      "newtab": "index.html"
+    }
+  }
