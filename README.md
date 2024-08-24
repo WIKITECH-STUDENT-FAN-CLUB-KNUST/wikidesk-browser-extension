@@ -1,7 +1,7 @@
 
 # Wikidesk Browser Extension
 
-This is top render the wikidesk browser extension
+This is to render the wikidesk browser extension interface
 
 ## Getting Started
 
